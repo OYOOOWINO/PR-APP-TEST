@@ -4,5 +4,8 @@
     ],
     "backend":[
         "@OYOOOWINO","@vantablanta", "@ndaba"
+    ],
+    "frontend":[
+        "@OYOOOWINO","@vantablanta", "@ndaba"
     ]
 }
